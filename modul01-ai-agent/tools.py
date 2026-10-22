@@ -19,7 +19,9 @@ REPO = Path(__file__).resolve().parent.parent
 load_dotenv(REPO / ".env")
 
 # Çalışma klasörü: kullanıcının .env'de verdiği klasör, yoksa depodaki örnek klasör
-WORK_DIR = Path(os.path.expanduser(os.environ.get("WORK_DIR") or REPO / "ornek-klasor")).resolve()
+# Göreli bir yol verilirse (ör. "ornek-klasor") depo köküne göre çözülür; komutu hangi klasörden çalıştırdığınız fark etmez.
+_wd = Path(os.path.expanduser(os.environ.get("WORK_DIR") or "ornek-klasor"))
+WORK_DIR = (_wd if _wd.is_absolute() else REPO / _wd).resolve()
 MAX_CHARS = 20_000  # büyük bir dosyanın context'i doldurmaması için
 
 

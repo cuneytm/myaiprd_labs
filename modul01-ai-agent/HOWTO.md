@@ -27,6 +27,8 @@ python agent.py --task "Klasörde hangi dosyalar var?"
 
 Sonra `tools.py`'yi açın: modelin bu tool hakkında bildiği tek şey `description` ve `parameters` alanlarıdır.
 
+**Context'e bakın:** `memory/son-gorev-context.json` dosyasını açın. Modele giden her şey buradadır: `system` mesajı (instructions + skill kataloğu + uzun dönem bellek), sizin göreviniz (`user`), modelin tool önerisi (`assistant` + `tool_calls`), tool sonucu (`tool`) ve son cevap. Bu liste görevin **short-term memory**'sidir; görev bitince silinir, dosya yalnız incelemeniz için yazılır.
+
 ## Adım 2 · Birden fazla adım: model yolu kendisi bulur
 
 ```bash
@@ -82,6 +84,17 @@ Siz> Az önce hangi dosyadan bahsettik?
 ```
 
 `memory/session.json` yüklendiği için cevap verebilir (**session memory**). Aynı soruyu `--resume` olmadan sorun ve farkı görün.
+
+### Hangi bellek ne zaman yazılır?
+
+| Bellek | Dosya | Ne zaman yazılır | Sonraki görevde modele gider mi? |
+| --- | --- | --- | --- |
+| Short-term | yok (bellekte); kopyası `son-gorev-context.json` | Her görevde; görev bitince silinir | Hayır |
+| Session | `session.json` | Yalnız sohbet modunda (`python agent.py`), her mesajdan sonra | Yalnız `--resume` ile |
+| Long-term | `facts.md` | Yalnız model `remember` tool'unu çağırdığında | Evet, her görevde |
+| Görev kuyruğu sonuçları | `kuyruk-....md` | Yalnız `--tasks` ile | Hayır |
+
+Yani `--task "1.1.1.1 geçen dosya var mı?"` gibi tek seferlik bir soru `facts.md`'ye yazılmaz: instructions modele yalnız **kalıcı** bilgileri kaydetmesini söyler ve bu kararı model verir. Neyin belleğe yazılacağına karar vermek de agent tasarımının bir parçasıdır.
 
 ## Adım 6 · Dış döngü: görev kuyruğu
 

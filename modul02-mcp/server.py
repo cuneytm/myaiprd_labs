@@ -31,7 +31,9 @@ from mcp.types import ToolAnnotations
 
 REPO = Path(__file__).resolve().parent.parent
 load_dotenv(REPO / ".env")
-WORK_DIR = Path(os.path.expanduser(os.environ.get("WORK_DIR") or REPO / "ornek-klasor")).resolve()
+# Göreli bir yol verilirse (ör. "ornek-klasor") depo köküne göre çözülür; komutu hangi klasörden çalıştırdığınız fark etmez.
+_wd = Path(os.path.expanduser(os.environ.get("WORK_DIR") or "ornek-klasor"))
+WORK_DIR = (_wd if _wd.is_absolute() else REPO / _wd).resolve()
 MAX_CHARS = 20_000
 
 logging.basicConfig(stream=sys.stderr, level=logging.INFO, format="[server] %(message)s")

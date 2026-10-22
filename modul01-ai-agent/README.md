@@ -21,7 +21,7 @@ Agent, `.env`'de verdiğiniz klasör (`WORK_DIR`) üzerinde çalışır. Ona "to
 | **Tools** | `tools.py` | Dört dosya tool'u: `list_files`, `read_file`, `search_files`, `write_file`. Her biri fonksiyon + açıklama + JSON Schema |
 | **Tool calling** | `agent.py` → `run_task()` | Model `tool_calls` döndürür; harness fonksiyonu çalıştırır; sonuç `role: "tool"` mesajıyla context'e eklenir |
 | **Skills** | `skills/*/SKILL.md` | Context'te yalnız katalog (ad + açıklama) durur; model gerekince `load_skill` ile tam talimatı ister |
-| **Memory** | `agent.py` → MEMORY bölümü, `memory/` klasörü | short-term: `messages` listesi · session: `memory/session.json` (`--resume`) · long-term: `memory/facts.md` (`remember` tool'u) · procedural: skill'ler |
+| **Memory** | `agent.py` → MEMORY bölümü, `memory/` klasörü | short-term: `messages` listesi (son görevin kopyası `memory/son-gorev-context.json`) · session: `memory/session.json` (yalnız sohbette, `--resume`) · long-term: `memory/facts.md` (yalnız model `remember` çağırınca) · procedural: skill'ler |
 | **Loop (iç döngü)** | `agent.py` → `run_task()` | Modeli çağır → tool'u çalıştır → sonucu ekle → tekrar; model tool önermeden cevap verince durur |
 | **Dış döngü** | `agent.py` → `run_queue()`, `tasks.txt` | Kuyruktaki her görev ayrı ve temiz bir context ile çalışır |
 | **Workflow ile farkı** | `workflow.py` | Benzer bir işte adımları kod seçer, model yalnız özetler |
@@ -38,7 +38,7 @@ modul01-ai-agent/
 │   ├── klasor-raporu/SKILL.md     klasör raporu prosedürü
 │   └── toplanti-ozeti/SKILL.md    toplantı notlarından karar ve aksiyon çıkarma
 ├── tasks.txt         dış döngü için görev kuyruğu
-└── memory/           (çalışınca oluşur) facts.md, session.json, kuyruk sonuçları
+└── memory/           (çalışınca oluşur) son-gorev-context.json, session.json, facts.md, kuyruk sonuçları
 ```
 
 `ornek-klasor` ile çalışıyorsanız skill'ler oradaki dosyalara (toplantı notları, yapılacaklar listesi, proje planı) uygundur. Kendi klasörünüzle de çalışırlar.

@@ -70,7 +70,8 @@ def load_skill(name: str) -> str:
 
 # =====================================================================
 # MEMORY: model durumsuzdur, hatırlayan harness'tır.
-#   short-term : bu görevin mesajları (messages listesi = context)
+#   short-term : bu görevin mesajları (messages listesi = context); görev bitince
+#                silinir. İncelemek için son görevin kopyası: memory/son-gorev-context.json
 #   session    : sohbet dosyaya kaydedilir, --resume ile geri yüklenir
 #   long-term  : kalıcı bilgiler (memory/facts.md), her görevde context'e konur
 #   procedural : skill'ler (yukarıda)
@@ -90,6 +91,14 @@ def remember(fact: str) -> str:
 def save_session(messages: list) -> None:
     MEMORY_DIR.mkdir(exist_ok=True)
     SESSION_FILE.write_text(json.dumps(messages, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def save_last_context(messages: list) -> None:
+    """Short-term memory görevin sonunda silinir; incelemek için son görevin context'ini dosyaya yazarız.
+    Bu dosya agent tarafından tekrar okunmaz: yalnız sizin görmeniz içindir."""
+    MEMORY_DIR.mkdir(exist_ok=True)
+    (MEMORY_DIR / "son-gorev-context.json").write_text(
+        json.dumps(messages, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def system_prompt() -> str:
@@ -196,7 +205,9 @@ def run_queue(path: str) -> None:
     results = []
     for i, task in enumerate(tasks, 1):
         print(f"\n=== Görev {i}/{len(tasks)}: {task}")
-        answer = run_task(new_context() + [{"role": "user", "content": task}])
+        messages = new_context() + [{"role": "user", "content": task}]
+        answer = run_task(messages)
+        save_last_context(messages)
         print(f"--> {answer}")
         results.append(f"## {task}\n\n{answer}\n")
     out = MEMORY_DIR / f"kuyruk-{datetime.datetime.now():%Y%m%d-%H%M}.md"
@@ -215,7 +226,10 @@ if __name__ == "__main__":
     print(f"Model: {MODEL}  ·  Klasör: {WORK_DIR}")
     try:
         if a.task:
-            print(run_task(new_context() + [{"role": "user", "content": a.task}]))
+            messages = new_context() + [{"role": "user", "content": a.task}]
+            print(run_task(messages))
+            save_last_context(messages)
+            print("\n(Bu görevin context'i: memory/son-gorev-context.json)")
         elif a.tasks:
             run_queue(a.tasks)
         else:
