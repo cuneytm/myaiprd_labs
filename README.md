@@ -13,7 +13,7 @@ Her modülde iki dosya vardır: **README.md** ne öğreneceğinizi ve hangi kavr
 
 ## Gerekenler
 
-- **Python 3.10 veya üstü** (`python3 --version`)
+- **Python 3.10 veya üstü** (`python3 --version`). macOS'la gelen `python3` 3.9 olabilir; bu durumda `brew install python@3.12` ile yeni bir sürüm kurun ve sanal ortamı `python3.12 -m venv .venv` ile oluşturun. MCP kütüphanesi 3.9'a kurulmaz.
 - **Tool calling destekleyen bir model** ve onun OpenAI uyumlu adresi. Örnekler:
   - **Yerel, Ollama:** [ollama.com](https://ollama.com) adresinden kurun, tool destekleyen bir model indirin: `ollama pull qwen3:8b` (16 GB RAM'li bir Mac için uygundur; daha az bellekte `qwen3:4b`). Adres: `http://localhost:11434/v1`
   - **Yerel, LM Studio:** bir model yükleyip local server'ı başlatın. Adres: `http://localhost:1234/v1`
@@ -30,9 +30,11 @@ cd myaiprd_labs
 python3 -m venv .venv
 source .venv/bin/activate          # Windows PowerShell: .venv\Scripts\Activate.ps1
 
-pip install -r requirements.txt
+pip install -r requirements.txt   # hata vermeden bitmeli; mcp kurulamazsa Python sürümünü kontrol edin
 cp .env.example .env               # Windows: copy .env.example .env
 ```
+
+Her yeni terminal penceresinde laboratuvar komutlarından önce sanal ortamı tekrar etkinleştirin (`source .venv/bin/activate`); komut satırının başında `(.venv)` görünmelidir.
 
 ## Ayarlar: `.env`
 

@@ -113,7 +113,7 @@ Server'da tek satır değişmedi; değişen yalnız host'tur.
 
 | Belirti | Neden ve çözüm |
 | --- | --- |
-| `No module named 'mcp'` | Sanal ortam aktif değil ya da `pip install -r requirements.txt` yapılmadı |
+| `No module named 'mcp'` | Sanal ortam aktif değil (`source ../.venv/bin/activate`) ya da `pip install -r requirements.txt` yapılmadı. `pip` mcp için hata verdiyse Python sürümünüz 3.10'dan eski: `python3 --version` (macOS'un yerleşik `python3`'ü 3.9'dur; `brew install python@3.12` ile kurup sanal ortamı onunla yeniden oluşturun) |
 | `No module named 'mcp.server.fastmcp'` | İnternetteki eski (1.x) örneklerden kod kopyalandı. Bu laboratuvar MCP Python SDK 2.x kullanır: `from mcp.server.mcpserver import MCPServer` |
 | Client bağlanırken takılıyor ya da JSON hatası veriyor | `server.py` içinde `print()` kullanıldıysa stdout bozulur. Log için `log.info()` kullanın |
 | Server yanlış klasörü sunuyor | `client_test.py` çıktısındaki `[server] çalışma klasörü:` satırına bakın; `.env`'deki `WORK_DIR` tam yol olmalı |
