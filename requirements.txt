@@ -1,0 +1,6 @@
+# OpenAI uyumlu API istemcisi: Ollama, vLLM, LM Studio, OpenAI, AI gateway'ler
+openai>=1.40
+# Model Context Protocol Python SDK (2.x: MCPServer ve Client)
+mcp>=2.3,<3
+# .env dosyasından ayarları okumak için
+python-dotenv>=1.0

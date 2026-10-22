@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+modul01-ai-agent/memory/*
+!modul01-ai-agent/memory/.gitkeep

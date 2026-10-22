@@ -1,0 +1,5 @@
+# Dış döngü için görev kuyruğu. Her satır bir görevdir; # ile başlayan satırlar atlanır.
+# Gerçek hayatta görevler bir zamanlayıcıdan, e-postadan ya da bir mesajlaşma kanalından gelebilir.
+Klasörde kaç dosya var? Türlerine göre say.
+Yapılacaklar listesinde tamamlanmamış işleri listele.
+Klasör için bir rapor hazırla ve RAPOR.md olarak kaydet.

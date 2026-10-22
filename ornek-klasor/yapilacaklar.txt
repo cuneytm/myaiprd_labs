@@ -1,0 +1,5 @@
+[ ] Anket sorularını gözden geçir
+[x] Tasarım onayını al
+[ ] Test ortamındaki iki hatayı düzelt
+[ ] Bütçe tablosunu güncelle
+[ ] Yayın duyurusunu hazırla
