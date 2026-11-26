@@ -1,0 +1,11 @@
+# Claude programı laboratuvarları (claude-modul01 ... claude-modul09)
+# Kurulum: pip install -r requirements-claude.txt
+anthropic>=2.14
+claude-agent-sdk>=0.2
+mcp>=2.3,<3
+python-dotenv>=1.0
+pydantic>=2.7
+# Örnek PDF/PNG üretmek ve PDF okumak için (modül 4 ve 6)
+fpdf2>=2.8
+pypdf>=5.0
+pillow>=10.0

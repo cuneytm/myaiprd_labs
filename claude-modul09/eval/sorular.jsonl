@@ -1,0 +1,25 @@
+{"id": "s01", "soru": "BGP komşusu Idle durumunda kalıyorsa ilk ne kontrol edilir?", "beklenen": "update-source", "kaynak": "KB-101", "tur": "olgu"}
+{"id": "s02", "soru": "eBGP loopback'ler arası kuruluyorsa ebgp-multihop değeri kaç olmalı?", "beklenen": "2", "kaynak": "KB-102", "tur": "olgu"}
+{"id": "s03", "soru": "Leaf'lerde jumbo frame MTU değeri ne olmalı?", "beklenen": "9216", "kaynak": "KB-104", "tur": "olgu"}
+{"id": "s04", "soru": "Sunucuya bakan portlarda MTU kaç olmalı?", "beklenen": "9000", "kaynak": "KB-104", "tur": "olgu"}
+{"id": "s05", "soru": "OSPF komşuluğu EXSTART'ta takılıyorsa en olası neden nedir?", "beklenen": "MTU", "kaynak": "KB-105", "tur": "olgu"}
+{"id": "s06", "soru": "vPC peer-keepalive hangi VRF üzerinden çalışıyor?", "beklenen": "management", "kaynak": "KB-106", "tur": "olgu"}
+{"id": "s07", "soru": "vPC type-1 tutarlılık hatasının en sık nedeni nedir?", "beklenen": "allowed VLAN", "kaynak": "KB-107", "tur": "olgu"}
+{"id": "s08", "soru": "NVE source-interface hangi loopback?", "beklenen": "loopback1", "kaynak": "KB-108", "tur": "olgu"}
+{"id": "s09", "soru": "EVPN'de MAC'ler import edilmiyorsa hangi BGP ayarı eksik olabilir?", "beklenen": "send-community extended", "kaynak": "KB-109", "tur": "olgu"}
+{"id": "s10", "soru": "DC1 anycast gateway MAC adresi nedir?", "beklenen": "2020.0000.00aa", "kaynak": "KB-110", "tur": "olgu"}
+{"id": "s11", "soru": "100G SR4 optikler için kabul edilen RX güç aralığı nedir?", "beklenen": "-7", "kaynak": "KB-112", "tur": "olgu"}
+{"id": "s12", "soru": "errdisable recovery aralığı kaç saniye?", "beklenen": "300", "kaynak": "KB-113", "tur": "olgu"}
+{"id": "s13", "soru": "Sıcaklık major eşiği kaç derece?", "beklenen": "70", "kaynak": "KB-119", "tur": "olgu"}
+{"id": "s14", "soru": "DC1 NTP sunucuları hangileri?", "beklenen": "10.10.0.1", "kaynak": "KB-122", "tur": "olgu"}
+{"id": "s15", "soru": "Gece config yedekleri kaç gün saklanıyor?", "beklenen": "90", "kaynak": "KB-126", "tur": "olgu"}
+{"id": "s16", "soru": "Yazılım yükseltmesi hangi vPC cihazından başlar?", "beklenen": "ikincil", "kaynak": "KB-127", "tur": "olgu"}
+{"id": "s17", "soru": "ISP'den kaç prefix alınması beklenir?", "beklenen": "1", "kaynak": "KB-132", "tur": "olgu"}
+{"id": "s18", "soru": "Öncelikli kuyruk bant genişliğinin en fazla yüzde kaçıyla sınırlanır?", "beklenen": "30", "kaynak": "KB-135", "tur": "olgu"}
+{"id": "s19", "soru": "Lisans yenileme talebi bitişten en az kaç gün önce açılmalı?", "beklenen": "60", "kaynak": "KB-138", "tur": "olgu"}
+{"id": "s20", "soru": "Değişiklikten önce checkpoint nasıl adlandırılır?", "beklenen": "talep", "kaynak": "KB-140", "tur": "olgu"}
+{"id": "s21", "soru": "Spine switch'lerin garanti bitiş tarihi nedir?", "beklenen": "BILINMIYOR", "kaynak": null, "tur": "belgede-yok"}
+{"id": "s22", "soru": "DC2 fabric'inde kaç leaf var?", "beklenen": "BILINMIYOR", "kaynak": null, "tur": "belgede-yok"}
+{"id": "s23", "soru": "Wi-Fi erişim noktalarının kanal planı nasıl?", "beklenen": "BILINMIYOR", "kaynak": null, "tur": "belgede-yok"}
+{"id": "s24", "soru": "Firewall FW-01'in yazılım sürümü nedir?", "beklenen": "BILINMIYOR", "kaynak": null, "tur": "belgede-yok"}
+{"id": "s25", "soru": "Vardiya yöneticisinin cep telefonu numarası nedir?", "beklenen": "BILINMIYOR", "kaynak": null, "tur": "belgede-yok"}

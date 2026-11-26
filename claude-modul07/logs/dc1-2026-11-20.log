@@ -1,0 +1,9 @@
+2026-11-20T02:14:07+03:00 LEAF-103 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/49 is down (Link failure)
+2026-11-20T02:14:07+03:00 LEAF-103 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.0.0.1 Down - holdtimer expired
+2026-11-20T02:14:10+03:00 LEAF-103 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/50 is down (Link failure)
+2026-11-20T02:16:41+03:00 LEAF-103 %ETHPORT-5-IF_UP: Interface Ethernet1/49 is up in mode routed
+2026-11-20T02:16:44+03:00 LEAF-103 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.0.0.1 Up
+2026-11-20T02:31:12+03:00 LEAF-104 %AUTHPRIV-3-SYSTEM_MSG: pam_unix(telnet:auth): authentication failure; rhost=172.16.9.44 user=admin
+2026-11-20T02:31:19+03:00 LEAF-104 %AUTHPRIV-3-SYSTEM_MSG: pam_unix(telnet:auth): authentication failure; rhost=172.16.9.44 user=admin
+2026-11-20T02:31:25+03:00 LEAF-104 %AUTHPRIV-3-SYSTEM_MSG: pam_unix(telnet:auth): authentication failure; rhost=172.16.9.44 user=root
+2026-11-20T03:05:00+03:00 SPINE-02 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.255.0.104 Down - peer not configured

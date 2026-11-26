@@ -4,3 +4,14 @@ __pycache__/
 *.pyc
 modul01-ai-agent/memory/*
 !modul01-ai-agent/memory/.gitkeep
+
+# Claude programı: laboratuvarda üretilen dosyalar
+claude-modul04/veri/faturalar/
+claude-modul04/veri/topoloji.png
+claude-modul04/veri/sozlesme.pdf
+claude-modul04/.sozlesme_file_id
+claude-modul04/topoloji.mmd
+claude-modul06/veri/ozgecmisler/
+claude-modul06/adaylar/
+claude-modul08/islem_log.jsonl
+claude-modul09/rag/indeks.json

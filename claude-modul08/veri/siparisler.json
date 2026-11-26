@@ -1,0 +1,600 @@
+[
+ {
+  "siparis_no": "SP-1030",
+  "musteri": "M-510",
+  "tarih": "2026-09-27",
+  "kalemler": [
+   "U-1045"
+  ],
+  "tutar": 1899.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR5028430462"
+ },
+ {
+  "siparis_no": "SP-1031",
+  "musteri": "M-503",
+  "tarih": "2026-10-26",
+  "kalemler": [
+   "U-1003",
+   "U-1087",
+   "U-1059"
+  ],
+  "tutar": 4097.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR6687783100"
+ },
+ {
+  "siparis_no": "SP-1032",
+  "musteri": "M-501",
+  "tarih": "2026-10-10",
+  "kalemler": [
+   "U-1087",
+   "U-1031"
+  ],
+  "tutar": 1898.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR9697009507"
+ },
+ {
+  "siparis_no": "SP-1033",
+  "musteri": "M-512",
+  "tarih": "2026-11-20",
+  "kalemler": [
+   "U-1085"
+  ],
+  "tutar": 3499.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR8330274042"
+ },
+ {
+  "siparis_no": "SP-1034",
+  "musteri": "M-502",
+  "tarih": "2026-11-02",
+  "kalemler": [
+   "U-1040",
+   "U-1024",
+   "U-1060"
+  ],
+  "tutar": 5697.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR8378446275"
+ },
+ {
+  "siparis_no": "SP-1035",
+  "musteri": "M-521",
+  "tarih": "2026-11-10",
+  "kalemler": [
+   "U-1100"
+  ],
+  "tutar": 4299.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR9778574220"
+ },
+ {
+  "siparis_no": "SP-1036",
+  "musteri": "M-501",
+  "tarih": "2026-11-25",
+  "kalemler": [
+   "U-1056",
+   "U-1093",
+   "U-1035"
+  ],
+  "tutar": 5147.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR8221245536"
+ },
+ {
+  "siparis_no": "SP-1037",
+  "musteri": "M-526",
+  "tarih": "2026-11-23",
+  "kalemler": [
+   "U-1006"
+  ],
+  "tutar": 399.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR9992865498"
+ },
+ {
+  "siparis_no": "SP-1038",
+  "musteri": "M-502",
+  "tarih": "2026-09-29",
+  "kalemler": [
+   "U-1031"
+  ],
+  "tutar": 599.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR9313923758"
+ },
+ {
+  "siparis_no": "SP-1039",
+  "musteri": "M-515",
+  "tarih": "2026-11-10",
+  "kalemler": [
+   "U-1088"
+  ],
+  "tutar": 1899.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1040",
+  "musteri": "M-526",
+  "tarih": "2026-11-22",
+  "kalemler": [
+   "U-1101",
+   "U-1008"
+  ],
+  "tutar": 4398.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR7045046029"
+ },
+ {
+  "siparis_no": "SP-1041",
+  "musteri": "M-506",
+  "tarih": "2026-09-30",
+  "kalemler": [
+   "U-1082",
+   "U-1007"
+  ],
+  "tutar": 1898.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1042",
+  "musteri": "M-506",
+  "tarih": "2026-10-24",
+  "kalemler": [
+   "U-1090"
+  ],
+  "tutar": 399.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR4815162342"
+ },
+ {
+  "siparis_no": "SP-1043",
+  "musteri": "M-502",
+  "tarih": "2026-11-05",
+  "kalemler": [
+   "U-1119"
+  ],
+  "tutar": 1299.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1044",
+  "musteri": "M-519",
+  "tarih": "2026-11-21",
+  "kalemler": [
+   "U-1118",
+   "U-1021",
+   "U-1077"
+  ],
+  "tutar": 6697.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR5369735246"
+ },
+ {
+  "siparis_no": "SP-1045",
+  "musteri": "M-516",
+  "tarih": "2026-10-20",
+  "kalemler": [
+   "U-1046",
+   "U-1063",
+   "U-1055"
+  ],
+  "tutar": 3197.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR3684780941"
+ },
+ {
+  "siparis_no": "SP-1046",
+  "musteri": "M-528",
+  "tarih": "2026-11-06",
+  "kalemler": [
+   "U-1002",
+   "U-1117",
+   "U-1097"
+  ],
+  "tutar": 1097.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR1496871122"
+ },
+ {
+  "siparis_no": "SP-1047",
+  "musteri": "M-526",
+  "tarih": "2026-10-07",
+  "kalemler": [
+   "U-1062",
+   "U-1012"
+  ],
+  "tutar": 5398.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR7024110701"
+ },
+ {
+  "siparis_no": "SP-1048",
+  "musteri": "M-515",
+  "tarih": "2026-10-22",
+  "kalemler": [
+   "U-1017"
+  ],
+  "tutar": 2499.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1049",
+  "musteri": "M-518",
+  "tarih": "2026-11-20",
+  "kalemler": [
+   "U-1090"
+  ],
+  "tutar": 399.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR3861731698"
+ },
+ {
+  "siparis_no": "SP-1050",
+  "musteri": "M-501",
+  "tarih": "2026-11-22",
+  "kalemler": [
+   "U-1008",
+   "U-1064"
+  ],
+  "tutar": 899.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR4021948835"
+ },
+ {
+  "siparis_no": "SP-1051",
+  "musteri": "M-502",
+  "tarih": "2026-09-30",
+  "kalemler": [
+   "U-1113",
+   "U-1048"
+  ],
+  "tutar": 4548.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1052",
+  "musteri": "M-500",
+  "tarih": "2026-11-01",
+  "kalemler": [
+   "U-1099",
+   "U-1041"
+  ],
+  "tutar": 648.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR9143644466"
+ },
+ {
+  "siparis_no": "SP-1053",
+  "musteri": "M-504",
+  "tarih": "2026-11-24",
+  "kalemler": [
+   "U-1098",
+   "U-1017",
+   "U-1074"
+  ],
+  "tutar": 7397.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR5100682659"
+ },
+ {
+  "siparis_no": "SP-1054",
+  "musteri": "M-525",
+  "tarih": "2026-11-08",
+  "kalemler": [
+   "U-1007",
+   "U-1090",
+   "U-1055"
+  ],
+  "tutar": 1397.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1055",
+  "musteri": "M-509",
+  "tarih": "2026-11-05",
+  "kalemler": [
+   "U-1072",
+   "U-1017"
+  ],
+  "tutar": 2748.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1056",
+  "musteri": "M-521",
+  "tarih": "2026-11-09",
+  "kalemler": [
+   "U-1018"
+  ],
+  "tutar": 249.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR6683159931"
+ },
+ {
+  "siparis_no": "SP-1057",
+  "musteri": "M-500",
+  "tarih": "2026-10-22",
+  "kalemler": [
+   "U-1009"
+  ],
+  "tutar": 1899.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR1117992570"
+ },
+ {
+  "siparis_no": "SP-1058",
+  "musteri": "M-513",
+  "tarih": "2026-10-04",
+  "kalemler": [
+   "U-1017"
+  ],
+  "tutar": 2499.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR8987772248"
+ },
+ {
+  "siparis_no": "SP-1059",
+  "musteri": "M-511",
+  "tarih": "2026-10-29",
+  "kalemler": [
+   "U-1003",
+   "U-1030",
+   "U-1068"
+  ],
+  "tutar": 4997.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR6159050481"
+ },
+ {
+  "siparis_no": "SP-1060",
+  "musteri": "M-526",
+  "tarih": "2026-10-19",
+  "kalemler": [
+   "U-1002",
+   "U-1021"
+  ],
+  "tutar": 2148.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR5221680820"
+ },
+ {
+  "siparis_no": "SP-1061",
+  "musteri": "M-514",
+  "tarih": "2026-10-12",
+  "kalemler": [
+   "U-1068",
+   "U-1078"
+  ],
+  "tutar": 1299.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR2844504914"
+ },
+ {
+  "siparis_no": "SP-1062",
+  "musteri": "M-514",
+  "tarih": "2026-09-28",
+  "kalemler": [
+   "U-1041",
+   "U-1058"
+  ],
+  "tutar": 1548.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR7855742179"
+ },
+ {
+  "siparis_no": "SP-1063",
+  "musteri": "M-517",
+  "tarih": "2026-11-22",
+  "kalemler": [
+   "U-1057"
+  ],
+  "tutar": 399.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR1006935554"
+ },
+ {
+  "siparis_no": "SP-1064",
+  "musteri": "M-521",
+  "tarih": "2026-10-02",
+  "kalemler": [
+   "U-1105"
+  ],
+  "tutar": 4299.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR1224675289"
+ },
+ {
+  "siparis_no": "SP-1065",
+  "musteri": "M-507",
+  "tarih": "2026-09-28",
+  "kalemler": [
+   "U-1005"
+  ],
+  "tutar": 1299.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR9082223047"
+ },
+ {
+  "siparis_no": "SP-1066",
+  "musteri": "M-526",
+  "tarih": "2026-11-13",
+  "kalemler": [
+   "U-1060",
+   "U-1028"
+  ],
+  "tutar": 4998.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR6158927537"
+ },
+ {
+  "siparis_no": "SP-1067",
+  "musteri": "M-511",
+  "tarih": "2026-10-08",
+  "kalemler": [
+   "U-1067",
+   "U-1046",
+   "U-1098"
+  ],
+  "tutar": 5797.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR4650010011"
+ },
+ {
+  "siparis_no": "SP-1068",
+  "musteri": "M-526",
+  "tarih": "2026-11-16",
+  "kalemler": [
+   "U-1064",
+   "U-1052",
+   "U-1045"
+  ],
+  "tutar": 7097.0,
+  "durum": "kargoda",
+  "kargo_takip": "TR6318578629"
+ },
+ {
+  "siparis_no": "SP-1069",
+  "musteri": "M-503",
+  "tarih": "2026-11-15",
+  "kalemler": [
+   "U-1005",
+   "U-1013"
+  ],
+  "tutar": 3198.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR4955124447"
+ },
+ {
+  "siparis_no": "SP-1070",
+  "musteri": "M-519",
+  "tarih": "2026-10-26",
+  "kalemler": [
+   "U-1062",
+   "U-1088"
+  ],
+  "tutar": 5398.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR6149587909"
+ },
+ {
+  "siparis_no": "SP-1071",
+  "musteri": "M-519",
+  "tarih": "2026-10-18",
+  "kalemler": [
+   "U-1002",
+   "U-1014",
+   "U-1066"
+  ],
+  "tutar": 5047.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR2671147050"
+ },
+ {
+  "siparis_no": "SP-1072",
+  "musteri": "M-516",
+  "tarih": "2026-10-17",
+  "kalemler": [
+   "U-1087",
+   "U-1004"
+  ],
+  "tutar": 2198.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR7009108828"
+ },
+ {
+  "siparis_no": "SP-1073",
+  "musteri": "M-517",
+  "tarih": "2026-10-21",
+  "kalemler": [
+   "U-1119",
+   "U-1120",
+   "U-1089"
+  ],
+  "tutar": 1797.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1074",
+  "musteri": "M-518",
+  "tarih": "2026-10-30",
+  "kalemler": [
+   "U-1103"
+  ],
+  "tutar": 399.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR9676510822"
+ },
+ {
+  "siparis_no": "SP-1075",
+  "musteri": "M-524",
+  "tarih": "2026-11-24",
+  "kalemler": [
+   "U-1027",
+   "U-1037",
+   "U-1010"
+  ],
+  "tutar": 6097.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ },
+ {
+  "siparis_no": "SP-1076",
+  "musteri": "M-509",
+  "tarih": "2026-10-01",
+  "kalemler": [
+   "U-1079",
+   "U-1075"
+  ],
+  "tutar": 4798.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR5357072697"
+ },
+ {
+  "siparis_no": "SP-1077",
+  "musteri": "M-521",
+  "tarih": "2026-11-20",
+  "kalemler": [
+   "U-1031",
+   "U-1010",
+   "U-1005"
+  ],
+  "tutar": 3400.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR7039303461"
+ },
+ {
+  "siparis_no": "SP-1078",
+  "musteri": "M-519",
+  "tarih": "2026-10-12",
+  "kalemler": [
+   "U-1115",
+   "U-1045"
+  ],
+  "tutar": 4398.0,
+  "durum": "teslim edildi",
+  "kargo_takip": "TR3413651706"
+ },
+ {
+  "siparis_no": "SP-1079",
+  "musteri": "M-507",
+  "tarih": "2026-09-29",
+  "kalemler": [
+   "U-1067",
+   "U-1012"
+  ],
+  "tutar": 2498.0,
+  "durum": "hazırlanıyor",
+  "kargo_takip": null
+ }
+]

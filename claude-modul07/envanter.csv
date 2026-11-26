@@ -1,0 +1,7 @@
+hostname,rol,site,os_surumu,yonetim_ip
+LEAF-101,leaf,DC1,10.4(3),10.10.1.101
+LEAF-102,leaf,DC1,10.4(3),10.10.1.102
+LEAF-103,leaf,DC1,10.4(3),10.10.1.103
+LEAF-104,leaf,DC1,10.2(7),10.10.1.104
+SPINE-01,spine,DC1,10.4(3),10.10.1.1
+SPINE-02,spine,DC1,10.4(3),10.10.1.2

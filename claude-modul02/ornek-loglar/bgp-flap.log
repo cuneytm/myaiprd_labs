@@ -1,0 +1,10 @@
+2026-11-21T09:02:11+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Down - holdtimer expired
+2026-11-21T09:02:41+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Up
+2026-11-21T09:05:12+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Down - holdtimer expired
+2026-11-21T09:05:44+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Up
+2026-11-21T09:06:01+03:00 BORDER-01 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface Ethernet1/1, operational Receive Flow Control state changed to off
+2026-11-21T09:08:15+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Down - holdtimer expired
+2026-11-21T09:08:17+03:00 BORDER-01 %ETH_PORT_CHANNEL-5-PORT_SUSPENDED: Ethernet1/1: Ethernet1/1 is suspended
+2026-11-21T09:08:47+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Up
+2026-11-21T09:09:02+03:00 BORDER-01 %ETHPORT-5-IF_ERR_CRC: Interface Ethernet1/1, CRC errors 1532 in last 60 seconds
+2026-11-21T09:11:20+03:00 BORDER-01 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 203.0.113.9 Down - holdtimer expired

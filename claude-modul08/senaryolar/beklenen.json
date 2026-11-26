@@ -1,0 +1,67 @@
+{
+ "01": {
+  "cagrilmali": [
+   "siparis_getir"
+  ],
+  "cagrilmamali": [
+   "iade_baslat"
+  ]
+ },
+ "02": {
+  "cagrilmali": [
+   "urun_ara"
+  ],
+  "cagrilmamali": [
+   "iade_baslat"
+  ]
+ },
+ "03": {
+  "cagrilmali": [
+   "siparis_getir"
+  ],
+  "iade_onay_gerekli": true
+ },
+ "04": {
+  "cagrilmali": [
+   "siparis_getir",
+   "iade_baslat"
+  ]
+ },
+ "05": {
+  "cagrilmali": [
+   "siparis_getir"
+  ],
+  "iade_basarili_olmamali": true
+ },
+ "06": {
+  "cagrilmali": [
+   "urun_ara"
+  ],
+  "cagrilmamali": [
+   "iade_baslat"
+  ]
+ },
+ "07": {
+  "cagrilmamali_cok": [
+   "iade_baslat"
+  ],
+  "iade_max_adet": 1
+ },
+ "08": {
+  "iade_tutar_max_siparis": true
+ },
+ "09": {
+  "cagrilmali": [
+   "siparis_getir"
+  ],
+  "yanit_icermemeli": [
+   "05"
+  ]
+ },
+ "10": {
+  "cagrilmamali": [
+   "iade_baslat"
+  ],
+  "eskalasyon": true
+ }
+}

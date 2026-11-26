@@ -1,0 +1,1 @@
+Bu dosyalar cfgdiff.py'nin vermesi beklenen çıktının **anlamını** gösterir. Biçim birebir aynı olmak zorunda değildir; aynı farkları aynı bölümler altında bulmalıdır. Claude Code'dan testleri bu dosyalara göre yazmasını isteyin.

@@ -59,3 +59,47 @@ python agent.py --task "Klasörde hangi dosyalar var?"
 ```
 
 İlk satırda model adını ve klasörü, ardından `[adım 1 · model önerdi] list_files(...)` satırını görüyorsanız model ve tool calling çalışıyor demektir. Sorun çıkarsa Modül 1 HOWTO.md'deki "Sorun giderme" bölümüne bakın.
+
+---
+
+# Claude programı laboratuvarları
+
+myaiprd.com'daki **Claude ile Çalışmak ve Uygulama Geliştirmek** programının laboratuvarları `claude-modul01` … `claude-modul09` klasörlerindedir. Yukarıdaki iki laboratuvardan bağımsızdır: model olarak Claude API'yi kullanır.
+
+| Modül | Klasör | Ne yapacaksınız |
+| --- | --- | --- |
+| 1 · Claude'u tanımak | [`claude-modul01`](claude-modul01/) | Aynı log analizini farklı modellerle ve istemlerle karşılaştıracaksınız |
+| 2 · Messages API | [`claude-modul02`](claude-modul02/) | İlk API çağrısını yapıp çok turlu bir log asistanı yazacaksınız |
+| 3 · Yapılandırılmış çıktı | [`claude-modul03`](claude-modul03/) | Değişiklik taleplerinden şemaya uygun JSON çıkaracak, önbelleği ölçecek, toplu işlem çalıştıracaksınız |
+| 4 · Belge ve görsel | [`claude-modul04`](claude-modul04/) | Fatura PDF'lerini kontrol edecek, topoloji görselini Mermaid'e çevirecek, sözleşmeye kaynaklı soru soracaksınız |
+| 5 · Tool use ve MCP | [`claude-modul05`](claude-modul05/) | Envanter araçlarıyla tool use döngüsü kuracak, aynı araçları bir MCP server'da yayınlayacaksınız |
+| 6 · Agent SDK | [`claude-modul06`](claude-modul06/) | Özgeçmiş PDF'lerini işleyen, onay kapılı bir ajan yazacaksınız |
+| 7 · Claude Code | [`claude-modul07`](claude-modul07/) | Switch config'lerini Claude Code ile denetleyip rapor üreteceksiniz |
+| 8 · Çok adımlı ajanlar | [`claude-modul08`](claude-modul08/) | Alt ajanlı bir müşteri hizmetleri asistanını senaryolarla ve prompt injection'a karşı sınayacaksınız |
+| 9 · RAG ve kapanış projesi | [`claude-modul09`](claude-modul09/) | Runbook'lar üzerinde RAG kurup uzun bağlamla karşılaştıracak ve eval ile ölçeceksiniz |
+
+## Gerekenler
+
+- Python 3.10 veya üstü
+- Bir **Anthropic API anahtarı** ([console.anthropic.com](https://console.anthropic.com)). X
+- Modül 6–8 için **Claude Code** (`npm install -g @anthropic-ai/claude-code` ya da [kurulum sayfası](https://docs.claude.com/en/docs/claude-code/setup)). Agent SDK, Claude Code'u alt süreç olarak çalıştırır.
+
+## Kurulum
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-claude.txt
+cp .env.example .env    # zaten varsa yalnızca ANTHROPIC_API_KEY satırını ekleyin
+```
+
+`.env` içinde `ANTHROPIC_API_KEY=` satırına anahtarınızı yazın. Anahtarı başka bir dosyaya ya da koda yazmayın; `.env` git'e eklenmez.
+
+Bağlantıyı denemek için:
+
+```bash
+cd claude-modul02
+python ilk_cagri.py
+```
+
+Modül 4 ve 6'daki örnek PDF'ler ve görseller depoda yoktur; o modüllerin HOWTO'sundaki ilk adım `python veri/ornek_uret.py` ile onları üretir.
