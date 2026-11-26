@@ -1,0 +1,1275 @@
+[
+ {
+  "sku": "U-1001",
+  "ad": "Pulse Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 4299.0,
+  "stok": 1,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1002",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 249.0,
+  "stok": 10,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1003",
+  "ad": "Vega Kulak içi kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 899.0,
+  "stok": 24,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1004",
+  "ad": "Zen Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 899.0,
+  "stok": 0,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1005",
+  "ad": "Vega Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1299.0,
+  "stok": 11,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1006",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 399.0,
+  "stok": 8,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1007",
+  "ad": "Orbit Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 599.0,
+  "stok": 0,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1008",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 899.0,
+  "stok": 10,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1009",
+  "ad": "Pulse Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 12,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1010",
+  "ad": "Orbit Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 899.0,
+  "stok": 24,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1011",
+  "ad": "Pulse USB-C - USB-C kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 2499.0,
+  "stok": 10,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1012",
+  "ad": "Nova USB-C şarj adaptörü 65W",
+  "kategori": "sarj",
+  "fiyat": 1899.0,
+  "stok": 19,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1013",
+  "ad": "Zen Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 4,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1014",
+  "ad": "Pulse USB-C - Lightning kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 3499.0,
+  "stok": 20,
+  "uyumluluk": [
+   "iPhone 14 ve öncesi"
+  ]
+ },
+ {
+  "sku": "U-1015",
+  "ad": "Vega USB-C şarj adaptörü 65W",
+  "kategori": "sarj",
+  "fiyat": 599.0,
+  "stok": 3,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1016",
+  "ad": "Pulse USB-C - USB-C kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 2499.0,
+  "stok": 1,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1017",
+  "ad": "Pulse Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 2499.0,
+  "stok": 37,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1018",
+  "ad": "Vega Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 249.0,
+  "stok": 11,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1019",
+  "ad": "Nova Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 899.0,
+  "stok": 29,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1020",
+  "ad": "Pulse HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 4299.0,
+  "stok": 16,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1021",
+  "ad": "Nova Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 18,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1022",
+  "ad": "Nova Kulak içi kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 899.0,
+  "stok": 21,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1023",
+  "ad": "Orbit Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 1899.0,
+  "stok": 17,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1024",
+  "ad": "Pulse Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1899.0,
+  "stok": 19,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1025",
+  "ad": "Orbit USB-C şarj adaptörü 30W",
+  "kategori": "sarj",
+  "fiyat": 1299.0,
+  "stok": 30,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1026",
+  "ad": "Nova Kablosuz şarj pedi",
+  "kategori": "sarj",
+  "fiyat": 399.0,
+  "stok": 38,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1027",
+  "ad": "Nova Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 899.0,
+  "stok": 38,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1028",
+  "ad": "Vega USB-C - Lightning kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 2499.0,
+  "stok": 9,
+  "uyumluluk": [
+   "iPhone 14 ve öncesi"
+  ]
+ },
+ {
+  "sku": "U-1029",
+  "ad": "Nova Gürültü önleyici kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 3499.0,
+  "stok": 21,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1030",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 599.0,
+  "stok": 40,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1031",
+  "ad": "Nova Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 599.0,
+  "stok": 27,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1032",
+  "ad": "Nova USB-C - USB-C kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 2499.0,
+  "stok": 18,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1033",
+  "ad": "Zen USB-C şarj adaptörü 65W",
+  "kategori": "sarj",
+  "fiyat": 599.0,
+  "stok": 33,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1034",
+  "ad": "Pulse Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 3499.0,
+  "stok": 17,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1035",
+  "ad": "Vega USB-C - Lightning kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 599.0,
+  "stok": 7,
+  "uyumluluk": [
+   "iPhone 14 ve öncesi"
+  ]
+ },
+ {
+  "sku": "U-1036",
+  "ad": "Vega Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 1899.0,
+  "stok": 11,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1037",
+  "ad": "Pulse Kulak içi kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 4299.0,
+  "stok": 35,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1038",
+  "ad": "Nova Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 37,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1039",
+  "ad": "Pulse Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1899.0,
+  "stok": 35,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1040",
+  "ad": "Vega Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1299.0,
+  "stok": 18,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1041",
+  "ad": "Orbit HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 249.0,
+  "stok": 30,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1042",
+  "ad": "Pulse Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 1299.0,
+  "stok": 29,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1043",
+  "ad": "Pulse HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 1899.0,
+  "stok": 17,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1044",
+  "ad": "Vega Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1899.0,
+  "stok": 11,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1045",
+  "ad": "Pulse Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 33,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1046",
+  "ad": "Orbit Kablosuz şarj pedi",
+  "kategori": "sarj",
+  "fiyat": 899.0,
+  "stok": 23,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1047",
+  "ad": "Pulse Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 399.0,
+  "stok": 26,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1048",
+  "ad": "Zen Kablosuz şarj pedi",
+  "kategori": "sarj",
+  "fiyat": 4299.0,
+  "stok": 26,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1049",
+  "ad": "Zen HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 1299.0,
+  "stok": 1,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1050",
+  "ad": "Zen USB-C şarj adaptörü 30W",
+  "kategori": "sarj",
+  "fiyat": 3499.0,
+  "stok": 39,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1051",
+  "ad": "Orbit Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 599.0,
+  "stok": 40,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1052",
+  "ad": "Vega Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 899.0,
+  "stok": 10,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1053",
+  "ad": "Nova Kablosuz kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 1899.0,
+  "stok": 11,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1054",
+  "ad": "Zen Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 249.0,
+  "stok": 26,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1055",
+  "ad": "Vega Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 399.0,
+  "stok": 37,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1056",
+  "ad": "Pulse USB-C şarj adaptörü 30W",
+  "kategori": "sarj",
+  "fiyat": 249.0,
+  "stok": 22,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1057",
+  "ad": "Vega Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 399.0,
+  "stok": 35,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1058",
+  "ad": "Zen USB-C - USB-C kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 1299.0,
+  "stok": 6,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1059",
+  "ad": "Zen HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 1899.0,
+  "stok": 37,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1060",
+  "ad": "Orbit USB-C - Lightning kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 2499.0,
+  "stok": 26,
+  "uyumluluk": [
+   "iPhone 14 ve öncesi"
+  ]
+ },
+ {
+  "sku": "U-1061",
+  "ad": "Vega Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 599.0,
+  "stok": 10,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1062",
+  "ad": "Zen Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 3499.0,
+  "stok": 12,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1063",
+  "ad": "Nova Kablosuz şarj pedi",
+  "kategori": "sarj",
+  "fiyat": 1899.0,
+  "stok": 0,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1064",
+  "ad": "Pulse Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 4299.0,
+  "stok": 9,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1065",
+  "ad": "Zen HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 2499.0,
+  "stok": 27,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1066",
+  "ad": "Vega Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 1299.0,
+  "stok": 30,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1067",
+  "ad": "Vega Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 599.0,
+  "stok": 38,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1068",
+  "ad": "Pulse Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 3499.0,
+  "stok": 16,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1069",
+  "ad": "Pulse Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 1299.0,
+  "stok": 31,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1070",
+  "ad": "Vega USB-C - USB-C kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 249.0,
+  "stok": 7,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1071",
+  "ad": "Orbit Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1299.0,
+  "stok": 2,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1072",
+  "ad": "Vega Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 249.0,
+  "stok": 30,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1073",
+  "ad": "Orbit Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 3499.0,
+  "stok": 2,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1074",
+  "ad": "Pulse USB-C şarj adaptörü 65W",
+  "kategori": "sarj",
+  "fiyat": 599.0,
+  "stok": 18,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1075",
+  "ad": "Zen USB-C - Lightning kablo 1m",
+  "kategori": "kablo",
+  "fiyat": 3499.0,
+  "stok": 33,
+  "uyumluluk": [
+   "iPhone 14 ve öncesi"
+  ]
+ },
+ {
+  "sku": "U-1076",
+  "ad": "Nova Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 599.0,
+  "stok": 19,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1077",
+  "ad": "Pulse HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 1299.0,
+  "stok": 33,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1078",
+  "ad": "Pulse Kulak içi kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 1899.0,
+  "stok": 37,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1079",
+  "ad": "Nova USB-C şarj adaptörü 30W",
+  "kategori": "sarj",
+  "fiyat": 1299.0,
+  "stok": 35,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1080",
+  "ad": "Zen Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 899.0,
+  "stok": 0,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1081",
+  "ad": "Zen Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 3499.0,
+  "stok": 24,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1082",
+  "ad": "Orbit Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 1299.0,
+  "stok": 29,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1083",
+  "ad": "Pulse Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 249.0,
+  "stok": 27,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1084",
+  "ad": "Vega Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 1299.0,
+  "stok": 9,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1085",
+  "ad": "Zen USB-C şarj adaptörü 65W",
+  "kategori": "sarj",
+  "fiyat": 3499.0,
+  "stok": 21,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1086",
+  "ad": "Vega Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 4299.0,
+  "stok": 3,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1087",
+  "ad": "Orbit Gürültü önleyici kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 1299.0,
+  "stok": 5,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1088",
+  "ad": "Nova Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 27,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1089",
+  "ad": "Vega Kulak içi kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 249.0,
+  "stok": 7,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1090",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 399.0,
+  "stok": 8,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1091",
+  "ad": "Vega HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 599.0,
+  "stok": 11,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1092",
+  "ad": "Vega Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 599.0,
+  "stok": 4,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1093",
+  "ad": "Nova Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 4299.0,
+  "stok": 6,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1094",
+  "ad": "Nova Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 1299.0,
+  "stok": 3,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1095",
+  "ad": "Vega Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 599.0,
+  "stok": 0,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1096",
+  "ad": "Pulse Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 3499.0,
+  "stok": 31,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1097",
+  "ad": "Pulse HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 249.0,
+  "stok": 8,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1098",
+  "ad": "Orbit Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 4299.0,
+  "stok": 18,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1099",
+  "ad": "Pulse Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 399.0,
+  "stok": 35,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1100",
+  "ad": "Pulse USB-C şarj adaptörü 65W",
+  "kategori": "sarj",
+  "fiyat": 4299.0,
+  "stok": 8,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1101",
+  "ad": "Pulse Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 3499.0,
+  "stok": 24,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1102",
+  "ad": "Nova USB-C şarj adaptörü 30W",
+  "kategori": "sarj",
+  "fiyat": 1899.0,
+  "stok": 5,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1103",
+  "ad": "Nova Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 399.0,
+  "stok": 32,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1104",
+  "ad": "Orbit Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 2499.0,
+  "stok": 29,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1105",
+  "ad": "Nova Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 4299.0,
+  "stok": 1,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1106",
+  "ad": "Nova Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 599.0,
+  "stok": 27,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1107",
+  "ad": "Nova Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 399.0,
+  "stok": 31,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1108",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 2499.0,
+  "stok": 22,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1109",
+  "ad": "Pulse Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 1899.0,
+  "stok": 39,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ },
+ {
+  "sku": "U-1110",
+  "ad": "Vega Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 2499.0,
+  "stok": 8,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1111",
+  "ad": "Pulse Bluetooth hoparlör",
+  "kategori": "hoparlor",
+  "fiyat": 2499.0,
+  "stok": 23,
+  "uyumluluk": [
+   "Bluetooth 5.0"
+  ]
+ },
+ {
+  "sku": "U-1112",
+  "ad": "Zen Powerbank 10000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 899.0,
+  "stok": 11,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1113",
+  "ad": "Nova Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 249.0,
+  "stok": 2,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1114",
+  "ad": "Orbit USB-C şarj adaptörü 30W",
+  "kategori": "sarj",
+  "fiyat": 249.0,
+  "stok": 31,
+  "uyumluluk": [
+   "iPhone 15+",
+   "Android",
+   "USB-PD"
+  ]
+ },
+ {
+  "sku": "U-1115",
+  "ad": "Nova Tablet kılıfı",
+  "kategori": "kilif",
+  "fiyat": 2499.0,
+  "stok": 30,
+  "uyumluluk": [
+   "iPad 10"
+  ]
+ },
+ {
+  "sku": "U-1116",
+  "ad": "Vega HDMI 2.1 kablo 2m",
+  "kategori": "kablo",
+  "fiyat": 1899.0,
+  "stok": 29,
+  "uyumluluk": [
+   "USB-C cihazlar"
+  ]
+ },
+ {
+  "sku": "U-1117",
+  "ad": "Orbit Telefon kılıfı",
+  "kategori": "kilif",
+  "fiyat": 599.0,
+  "stok": 10,
+  "uyumluluk": [
+   "iPhone 16"
+  ]
+ },
+ {
+  "sku": "U-1118",
+  "ad": "Vega Kulak içi kulaklık",
+  "kategori": "kulaklik",
+  "fiyat": 3499.0,
+  "stok": 9,
+  "uyumluluk": [
+   "iPhone",
+   "Android",
+   "Bluetooth 5.3"
+  ]
+ },
+ {
+  "sku": "U-1119",
+  "ad": "Nova Powerbank 20000 mAh",
+  "kategori": "powerbank",
+  "fiyat": 1299.0,
+  "stok": 10,
+  "uyumluluk": [
+   "USB-C",
+   "USB-A"
+  ]
+ },
+ {
+  "sku": "U-1120",
+  "ad": "Orbit Akıllı saat kayışı",
+  "kategori": "saat",
+  "fiyat": 249.0,
+  "stok": 30,
+  "uyumluluk": [
+   "22 mm kordon"
+  ]
+ }
+]

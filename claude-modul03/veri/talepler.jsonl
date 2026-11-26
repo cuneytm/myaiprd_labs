@@ -1,0 +1,50 @@
+{"id": "DT-2026100", "metin": "LEAF-104 ve LEAF-106 üzerinde Atlas Lojistik için VLAN 2487 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026101", "metin": "Selin Medya projesi bitti, LEAF-102 üzerindeki VLAN 1876 kaldırılsın. Bağlı sunucu kalmadı, ama yine de gece yapalım."}
+{"id": "DT-2026102", "metin": "Atlas Lojistik projesi bitti, LEAF-103 üzerindeki VLAN 1838 kaldırılsın. Bağlı sunucu kalmadı, ama yine de gece yapalım."}
+{"id": "DT-2026103", "metin": "LEAF-108 ve LEAF-111 üzerinde Atlas Lojistik için VLAN 9999 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026104", "metin": "Merhaba, Atlas Lojistik için yeni bir segment lazım: VLAN 1005, SPINE-01-LEAF-101 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026105", "metin": "LEAF-105 ve BORDER-02 arasındaki vPC'de VLAN 1816 allowed listesinden çıkarılacak. Kuzey Enerji taşındı."}
+{"id": "DT-2026106", "metin": "LEAF-110 ve LEAF-109 üzerinde Kuzey Enerji için VLAN 3442 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026107", "metin": "Merhaba, Deniz Finans için yeni bir segment lazım: VLAN 499, LEAF-107-LEAF-106 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026108", "metin": "LEAF-107 ve LEAF-108 üzerinde Selin Medya için VLAN 2886 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026109", "metin": "BORDER-01 üzerinde VLAN 0 adı 'Mavi Sağlık-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026110", "metin": "LEAF-108'de BGP komşusu için route-map güncellenecek, Orion Yazılım prefix'leri eklenecek. VLAN değişikliği yok. Hafta sonu bakımında yapılsın."}
+{"id": "DT-2026111", "metin": "LEAF-111 üzerinde VLAN 1938 adı 'Orion Yazılım-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026112", "metin": "LEAF-104 ve LEAF-109 üzerinde Kuzey Enerji için VLAN 1812 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026113", "metin": "Deniz Finans projesi bitti, BORDER-02 üzerindeki VLAN 260 kaldırılsın. Bağlı sunucu kalmadı, ama yine de gece yapalım."}
+{"id": "DT-2026114", "metin": "Merhaba, Pera Perakende için yeni bir segment lazım: VLAN 2947, LEAF-111-LEAF-106 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026115", "metin": "BORDER-01 üzerinde VLAN 3540 adı 'Deniz Finans-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026116", "metin": "LEAF-103 üzerinde VLAN 3094 adı 'Orion Yazılım-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026117", "metin": "Merhaba, Selin Medya için yeni bir segment lazım: VLAN 3035, BORDER-01-LEAF-105 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026118", "metin": "Acil: LEAF-101 Eth1/40 portu Kuzey Enerji sunucusu için VLAN 1555'e taşınacak. Sunucu şu an üretimde, kısa kesinti olur."}
+{"id": "DT-2026119", "metin": "BORDER-02 ve LEAF-101 üzerinde Orion Yazılım için VLAN 993 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026120", "metin": "LEAF-108'de BGP komşusu için route-map güncellenecek, Tuna Tekstil prefix'leri eklenecek. VLAN değişikliği yok. Hafta sonu bakımında yapılsın."}
+{"id": "DT-2026121", "metin": "Orion Yazılım projesi bitti, BORDER-01 üzerindeki VLAN 2350 kaldırılsın. Bağlı sunucu kalmadı, ama yine de gece yapalım."}
+{"id": "DT-2026122", "metin": "SPINE-02 ve BORDER-02 arasındaki vPC'de VLAN 2353 allowed listesinden çıkarılacak. Orion Yazılım taşındı."}
+{"id": "DT-2026123", "metin": "LEAF-112 üzerinde VLAN 3721 adı 'Selin Medya-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026124", "metin": "Mavi Sağlık projesi bitti, LEAF-103 üzerindeki VLAN 719 kaldırılsın. Bağlı sunucu kalmadı, ama yine de gece yapalım."}
+{"id": "DT-2026125", "metin": "Kuzey Enerji projesi bitti, LEAF-101 üzerindeki VLAN 9999 kaldırılsın. Bağlı sunucu kalmadı, ama yine de gece yapalım."}
+{"id": "DT-2026126", "metin": "Acil: LEAF-101 Eth1/40 portu Pera Perakende sunucusu için VLAN 1816'e taşınacak. Sunucu şu an üretimde, kısa kesinti olur."}
+{"id": "DT-2026127", "metin": "Merhaba, Atlas Lojistik için yeni bir segment lazım: VLAN 2928, LEAF-111-LEAF-103 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026128", "metin": "SPINE-01 ve LEAF-107 arasındaki vPC'de VLAN 1734 allowed listesinden çıkarılacak. Selin Medya taşındı."}
+{"id": "DT-2026129", "metin": "SPINE-01 üzerinde VLAN 880 adı 'Deniz Finans-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026130", "metin": "LEAF-106 üzerinde VLAN 1492 adı 'Atlas Lojistik-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026131", "metin": "LEAF-105 ve LEAF-109 üzerinde Pera Perakende için VLAN 515 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026132", "metin": "LEAF-103 ve SPINE-02 üzerinde Selin Medya için VLAN 951 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026133", "metin": "LEAF-109'de BGP komşusu için route-map güncellenecek, Pera Perakende prefix'leri eklenecek. VLAN değişikliği yok. Hafta sonu bakımında yapılsın."}
+{"id": "DT-2026134", "metin": "LEAF-104 ve SPINE-02 üzerinde Tuna Tekstil için VLAN 2099 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026135", "metin": "LEAF-110 üzerinde VLAN 690 adı 'Deniz Finans-PROD' olarak değiştirilsin. Sadece isim değişikliği."}
+{"id": "DT-2026136", "metin": "Acil: LEAF-109 Eth1/34 portu Kuzey Enerji sunucusu için VLAN 3494'e taşınacak. Sunucu şu an üretimde, kısa kesinti olur."}
+{"id": "DT-2026137", "metin": "LEAF-107 ve LEAF-109 üzerinde Kuzey Enerji için VLAN 1581 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026138", "metin": "Merhaba, Orion Yazılım için yeni bir segment lazım: VLAN 2263, LEAF-101-SPINE-01 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026139", "metin": "LEAF-103 ve LEAF-112 arasındaki vPC'de VLAN 3562 allowed listesinden çıkarılacak. Orion Yazılım taşındı."}
+{"id": "DT-2026140", "metin": "Acil: LEAF-106 Eth1/35 portu Mavi Sağlık sunucusu için VLAN 3261'e taşınacak. Sunucu şu an üretimde, kısa kesinti olur."}
+{"id": "DT-2026141", "metin": "Merhaba, Mavi Sağlık için yeni bir segment lazım: VLAN 5000, LEAF-111-BORDER-02 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026142", "metin": "SPINE-01 ve LEAF-112 arasındaki vPC'de VLAN 3390 allowed listesinden çıkarılacak. Mavi Sağlık taşındı."}
+{"id": "DT-2026143", "metin": "Merhaba, Atlas Lojistik için yeni bir segment lazım: VLAN 3094, BORDER-02-LEAF-106 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026144", "metin": "LEAF-109 ve LEAF-108 arasındaki vPC'de VLAN 1161 allowed listesinden çıkarılacak. Mavi Sağlık taşındı."}
+{"id": "DT-2026145", "metin": "Merhaba, Pera Perakende için yeni bir segment lazım: VLAN 3411, LEAF-112-LEAF-108 çiftinde trunk'a eklenecek. Bakım penceresi gerekiyor mu bilmiyorum, siz karar verin."}
+{"id": "DT-2026146", "metin": "LEAF-108 ve LEAF-102 üzerinde Tuna Tekstil için VLAN 1029 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}
+{"id": "DT-2026147", "metin": "Acil: LEAF-107 Eth1/31 portu Atlas Lojistik sunucusu için VLAN 2656'e taşınacak. Sunucu şu an üretimde, kısa kesinti olur."}
+{"id": "DT-2026148", "metin": "LEAF-112'de BGP komşusu için route-map güncellenecek, Deniz Finans prefix'leri eklenecek. VLAN değişikliği yok. Hafta sonu bakımında yapılsın."}
+{"id": "DT-2026149", "metin": "SPINE-01 ve BORDER-02 üzerinde Mavi Sağlık için VLAN 3014 açılması gerekiyor. Mevcut trafiği etkilemez, mesai içinde yapılabilir."}

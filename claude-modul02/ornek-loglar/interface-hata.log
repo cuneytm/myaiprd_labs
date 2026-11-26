@@ -1,0 +1,16 @@
+LEAF-102# show interface Ethernet1/12
+Ethernet1/12 is up
+admin state is up, Dedicated Interface
+  Hardware: 100000 Ethernet, address: 00de.fb12.3412
+  Description: SRV-DB-07 bond0
+  MTU 9216 bytes, BW 25000000 Kbit, DLY 10 usec
+  full-duplex, 25 Gb/s, media type is 25G
+  Last link flapped 00:04:12
+  RX
+    18402931 unicast packets  1204 multicast packets  12 broadcast packets
+    0 runts  0 giants  48211 CRC  0 no buffer
+    48211 input error  0 short frame  0 overrun   0 underrun  0 ignored
+  TX
+    17733210 unicast packets  33921 multicast packets  901 broadcast packets
+    0 output error  0 collision  0 deferred  0 late collision
+  12 interface resets

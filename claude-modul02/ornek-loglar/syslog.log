@@ -1,0 +1,6 @@
+2026-11-22T14:30:01+03:00 SPINE-02 %PLATFORM-2-PS_FAIL: Power supply 2 failed or shut down (Serial number QCS2210A1BC)
+2026-11-22T14:30:03+03:00 SPINE-02 %PLATFORM-2-PS_REDUNDANCY_CHANGE: Power supply redundancy mode changed to non-redundant
+2026-11-22T14:31:44+03:00 SPINE-02 %PLATFORM-4-FAN_DETECT: Fan module 3 speed increased to 85%
+2026-11-22T14:40:12+03:00 SPINE-02 %PLATFORM-4-TEMP_MINOR: Temperature sensor 4 crossed minor threshold (58C)
+2026-11-22T15:02:55+03:00 SPINE-02 %PLATFORM-5-PS_OK: Power supply 2 ok
+2026-11-22T15:02:57+03:00 SPINE-02 %PLATFORM-2-PS_REDUNDANCY_CHANGE: Power supply redundancy mode changed to redundant

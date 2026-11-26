@@ -1,0 +1,17 @@
+# python cfgdiff.py configs/leaf-101.cfg configs/leaf-103.cfg
+[hostname]
+  - LEAF-101
+  + LEAF-103
+[vlan]
+  (fark yok)
+[interface]
+  loopback0: ip address 10.255.0.101/32 -> 10.255.0.103/32
+  Ethernet1/49: mtu 9216 -> 1500; ip address 10.1.101.1/31 -> 10.1.103.1/31
+  Ethernet1/50: mtu 9216 -> 1500; ip address 10.2.101.1/31 -> 10.2.103.1/31
+[bgp]
+  router-id 10.255.0.101 -> 10.255.0.103
+[acl]
+  (fark yok)
+[diger]
+  - ntp server 10.10.0.1 use-vrf management
+  - ntp server 10.10.0.2 use-vrf management

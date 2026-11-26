@@ -1,0 +1,12 @@
+2026-11-20T02:14:07+03:00 LEAF-103 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/49 is down (Link failure)
+2026-11-20T02:14:07+03:00 LEAF-103 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.0.0.1 Down - holdtimer expired
+2026-11-20T02:14:10+03:00 LEAF-103 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/50 is down (Link failure)
+2026-11-20T02:14:10+03:00 LEAF-103 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.0.0.2 Down - holdtimer expired
+2026-11-20T02:14:11+03:00 LEAF-103 %VPC-2-PEER_KEEP_ALIVE_RECV_FAIL: In domain 10, VPC peer keep-alive receive has failed
+2026-11-20T02:14:58+03:00 SPINE-01 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/3 is down (Link failure)
+2026-11-20T02:16:41+03:00 LEAF-103 %ETHPORT-5-IF_UP: Interface Ethernet1/49 is up in mode routed
+2026-11-20T02:16:44+03:00 LEAF-103 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.0.0.1 Up
+2026-11-20T02:16:45+03:00 SPINE-01 %ETHPORT-5-IF_UP: Interface Ethernet1/3 is up in mode routed
+2026-11-20T02:17:02+03:00 LEAF-103 %VPC-2-PEER_KEEP_ALIVE_RECV_SUCCESS: In domain 10, VPC peer keep-alive receive is successful
+2026-11-20T02:21:30+03:00 LEAF-103 %ETHPORT-5-IF_UP: Interface Ethernet1/50 is up in mode routed
+2026-11-20T02:21:33+03:00 LEAF-103 %BGP-5-ADJCHANGE: bgp-65001 [default] neighbor 10.0.0.2 Up

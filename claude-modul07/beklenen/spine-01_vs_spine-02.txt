@@ -1,0 +1,10 @@
+# python cfgdiff.py configs/spine-01.cfg configs/spine-02.cfg
+[hostname]
+  - SPINE-01
+  + SPINE-02
+[interface]
+  loopback0: ip address 10.255.0.1/32 -> 10.255.0.2/32
+  (uplink IP farkları da listelenir)
+[bgp]
+  router-id 10.255.0.1 -> 10.255.0.2
+  - neighbor 10.255.0.104 (LEAF-104)

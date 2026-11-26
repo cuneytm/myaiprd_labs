@@ -1,0 +1,15 @@
+# python cfgdiff.py configs/leaf-101.cfg configs/leaf-102.cfg
+[hostname]
+  - LEAF-101
+  + LEAF-102
+[vlan]
+  + vlan 2400 (KUZEY-PROD)
+[interface]
+  Ethernet1/12: switchport access vlan 2150 -> 2400
+  loopback0: ip address 10.255.0.101/32 -> 10.255.0.102/32
+  Ethernet1/49: ip address 10.1.101.1/31 -> 10.1.102.1/31
+  Ethernet1/50: ip address 10.2.101.1/31 -> 10.2.102.1/31
+[bgp]
+  router-id 10.255.0.101 -> 10.255.0.102
+[acl]
+  (fark yok)
